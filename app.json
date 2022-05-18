@@ -82,7 +82,6 @@
     },
     "INDEX_LINK": {
       "description": "Enter your index link:",
-      "value": "https://321.cr7.workers.dev/1:/CRZ",
       "required": false
     },
     "GLEECH_COMMAND": {
