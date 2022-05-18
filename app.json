@@ -19,19 +19,19 @@
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9672d48ba8aa67c7d01065d8247b27cb"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "5332688066:AAFFA1igEcC34MBAxN2POr0VySfB9hrFQCE"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work., Put Group ID",
-      "value": ""
+      "value": "-613298453"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "372262246"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
@@ -82,6 +82,7 @@
     },
     "INDEX_LINK": {
       "description": "Enter your index link:",
+      "value": "https://321.cr7.workers.dev/1:/CRZ",
       "required": false
     },
     "GLEECH_COMMAND": {
@@ -110,10 +111,11 @@
     },
     "RCLONE_CONFIG": {
       "description": "Enter your copied text from rclone config. Compulsory for /gleech as well as /tleech command ",
-      "required": false
+        "required": false
     },
     "DESTINATION_FOLDER": {
       "description": "Enter your Cloud folder NAME(not ID😅) in which you want to upload/store your files.",
+        "value": "CRZ",
       "required": false
     },
     "CUSTOM_FILE_NAME": {
